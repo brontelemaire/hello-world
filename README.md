@@ -1,2 +1,2 @@
 # hello-world
-first repository experiment
+the first repository experiment
